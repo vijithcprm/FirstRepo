@@ -1,1 +1,3 @@
 This is the critical file needs to be added.
+
+commit #2 during squash activity
